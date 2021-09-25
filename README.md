@@ -7,7 +7,7 @@ Font_ASCII By Axeyed Kha
 
 ☆ gem install lolcat
 
-☆ git clone https://github.com/AXEYEDKHA/Font_ASCII
+☆ git clone https://github.com/AXEYEDKHA/Font_ASCII.git
 
 ☆ cd Font_ASCII
 
