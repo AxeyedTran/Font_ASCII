@@ -11,6 +11,6 @@ Font_ASCII By Axeyed Kha
 
 ☆ cd Font_ASCII
 
-☆ figlet -f ASCII-Shadow 'characters' ☆ 
+☆ figlet -f ASCII-Shadow 'characters'
 
 ENJOY GUYS 😀😀😁😁
