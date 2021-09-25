@@ -10,5 +10,6 @@
 
 ☆ cd Font_ASCII
 
-☆ ☆ figlet -f ASCII-Shadow 'your characters'☆ ☆
+☆ figlet -f ASCII-Shadow 'characters' ☆ 
+
 ENJOY GUYS 😀😀😁😁
