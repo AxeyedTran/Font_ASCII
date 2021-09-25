@@ -3,7 +3,11 @@ Font_ASCII By Axeyed Kha
 # Command:
 ☆ pkg install git
 
+☆ pkg install figlet
+
 ☆ pkg install ruby
+
+☆ pkg install toilet
 
 ☆ gem install lolcat
 
@@ -11,6 +15,6 @@ Font_ASCII By Axeyed Kha
 
 ☆ cd Font_ASCII
 
-☆ figlet -f ASCII-Shadow 'characters'
+☆ python Font-ASCII.py
 
 ENJOY GUYS 😀😀😁😁
