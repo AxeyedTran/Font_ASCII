@@ -15,6 +15,6 @@ Font_ASCII By Axeyed Kha
 
 ☆ cd Font_ASCII
 
-☆ python Font-ASCII.py
+☆ python FONT_ASCII.py
 
 ENJOY GUYS 😀😀😁😁
